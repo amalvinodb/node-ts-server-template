@@ -34,10 +34,7 @@ Welcome to my awesome Node.js project! This project does XYZ and helps you achie
         ```bash
         npm run dev
         ```
-    - For testing:
-        ```bash
-        npm test
-        ```
+
 
 ## Contributing
 
